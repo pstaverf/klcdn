@@ -1,2 +1,1 @@
-# klcdn
-.
+## KLCDN - your internet hero
